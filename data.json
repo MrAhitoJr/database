@@ -1,5 +1,4 @@
 {
-   Employees: [
       {
          userId: 'ravjy',
          jobTitleName: 'Developer',
@@ -22,5 +21,4 @@
          phoneNumber: '6543565',
          emailAddress: 'murli@vijay.com'
       }
-   ]
 }
